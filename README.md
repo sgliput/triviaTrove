@@ -1,4 +1,4 @@
-# triviaParty
+# Trivia Trove
 
 ## Deployed App
 
